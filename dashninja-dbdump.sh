@@ -9,7 +9,7 @@ DUMPNAM=$DIR.tar.bz2
 FULLDUMPNAM=$MAINDIR/$DUMPNAM
 TIMESTAMP=$(date +%s)
 DATE=$(date -u)
-LINKSFILE=$(head links.md)
+LINKSFILE=$(head -n 13 links.md)
 HEADER=$(cat header.md)
 
 [ -n "$DUMPDIR" ] || DUMPDIR=.
@@ -50,6 +50,11 @@ cd $MAINDIR
 rm -rf $DIR
 cd ..
 
+echo "Generating new links.md file and README.md"
 echo -e "$LINKSFILE\n| [$DATE]($URL) | $SIZE | $SHA256 | $SHA1 |" > links.md
-
 cat header.md links.md > README.md
+
+echo "Auto commit and push"
+git add README.md links.md
+git commit -m "$DATE - autoupdate"
+git push

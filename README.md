@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 | SHA1 |
 |--|--|--|--|
+| [Mon Jan 29 06:00:01 UTC 2018](https://transfer.sh/qPhc8/dashninja-dbdump-20180129070001.tar.bz2) | 199358829 | be2d5aff061c2ca642c6bbcb308fb5ffeeac6a219295539bd77d488165a83375 | 066a45ff145ce7a3306681285ccf6ed5a1208981 |
 | [Sun Jan 28 06:00:01 UTC 2018](https://transfer.sh/ER5gJ/dashninja-dbdump-20180128070001.tar.bz2) | 199112872 | 87ab22955146eff561cc0888af77ea87d14eb060b52c1fcd2fc32849bd4842d8 | 520261c6ab2ca52bbe396975ffd27baf8a0c9f7c |
 | [Sat Jan 27 06:00:01 UTC 2018](https://transfer.sh/puid9/dashninja-dbdump-20180127070001.tar.bz2) | 198711229 | 815c31c1978e67623f1f1cb02854e0c5e084cfd06530b8e2dc0c7a4e47d783a8 | 155a6d4ec1280400048779a241ad446fdb1937aa |
 | [Fri Jan 26 06:00:02 UTC 2018](https://transfer.sh/2q0eh/dashninja-dbdump-20180126070002.tar.bz2) | 198388991 | 793fec858bc498980cb827a77517a620a3487eb41b78140f2e196c6b62dd7bcc | 4ca2535b36d5077b96188852304432226a950990 |

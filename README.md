@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 | SHA1 |
 |--|--|--|--|
+| [Fri Feb  2 06:00:01 UTC 2018](https://transfer.sh/5P6aq/dashninja-dbdump-20180202070001.tar.bz2) | 200284567 | b8888de4424868a9261682b3bd50a6eb40ca38abffebf917c9338dd7b928de64 | 2b0d78fb8ee7db27082c8a9489a738981d764a93 |
 | [Thu Feb  1 06:00:01 UTC 2018](https://transfer.sh/C8pWG/dashninja-dbdump-20180201070001.tar.bz2) | 200122658 | 9bd1fc380b4562dfa75c58509a33e48c86bc7a39c466585f2bf647dff957e137 | 32bb01d64d336d50eab77cfe73da147cd0a2883f |
 | [Wed Jan 31 06:00:01 UTC 2018](https://transfer.sh/At8B9/dashninja-dbdump-20180131070001.tar.bz2) | 199997964 | 79ca7df932df07f87c6a34aed64482313ba386970890f3caa522b90cc28e6d02 | 13dd88207d98b8904ff6abb5452615dad1fb9926 |
 | [Tue Jan 30 06:00:01 UTC 2018](https://transfer.sh/CiInE/dashninja-dbdump-20180130070001.tar.bz2) | 199868931 | 039d1146a1baedab0e41ba9a87c9ada8cb24e0ecdf76020108e04bd80d02e838 | 2c4ee8f6dad1906d4afbc86fdc2aa1fb2ba8a952 |
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Mon Jan 22 17:30:21 UTC 2018](https://transfer.sh/G88lT/dashninja-dbdump-20180122183021.tar.bz2) | 197483219 | c64c377207f941660e6d4f2fa38c3a3c8c1b616d88e850e5ff9497ab89cebbe7 | 3ab2c3a52da7709e3f07dac442490d52891d0eb8 |
 | [Mon Jan 22 17:26:15 UTC 2018](https://transfer.sh/I6x3w/dashninja-dbdump-20180122182615.tar.bz2) | 197481563 | 8f7eac70bfed33f03f5e6155bcb66e50b81843f2e903b743ec346ffe423fad27 | ad09ba1b870201529eedd2a07a4fdf2ddd7666b3 |
 | [Mon Jan 22 17:22:46 UTC 2018](https://transfer.sh/be0aL/dashninja-dbdump-20180122182246.tar.bz2) | 197485357 | a3f08818b108839a765f49f98495afadac8b7ca40073b23107a6f36f4b4ada55 | 7f2bfa1c3c000868a0c41ddd4b06857eba732477 |
-| [Mon Jan 22 17:20:22 UTC 2018](https://transfer.sh/pG8PP/dashninja-dbdump-20180122182022.tar.bz2) | 197473271 | 4d129549542f593511f41c1cb4b2dbe1de7e9dc5f3be1e8c55f8bca9a7f1a525 | 0417fcf27361c6916ffc482c6f4d19c9f3cf3bcb |

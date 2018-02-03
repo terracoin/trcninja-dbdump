@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 | SHA1 |
 |--|--|--|--|
+| [Sat Feb  3 06:00:01 UTC 2018](https://transfer.sh/ciNHF/dashninja-dbdump-20180203070001.tar.bz2) | 200424246 | 0089e4561af4a0fa43d5f2f9cd3ae64cb6f9d838051a1a16d84d82eccf356392 | 4285f86007f88954d33595fa345f9fa5c3ad0ec1 |
 | [Fri Feb  2 06:00:01 UTC 2018](https://transfer.sh/5P6aq/dashninja-dbdump-20180202070001.tar.bz2) | 200284567 | b8888de4424868a9261682b3bd50a6eb40ca38abffebf917c9338dd7b928de64 | 2b0d78fb8ee7db27082c8a9489a738981d764a93 |
 | [Thu Feb  1 06:00:01 UTC 2018](https://transfer.sh/C8pWG/dashninja-dbdump-20180201070001.tar.bz2) | 200122658 | 9bd1fc380b4562dfa75c58509a33e48c86bc7a39c466585f2bf647dff957e137 | 32bb01d64d336d50eab77cfe73da147cd0a2883f |
 | [Wed Jan 31 06:00:01 UTC 2018](https://transfer.sh/At8B9/dashninja-dbdump-20180131070001.tar.bz2) | 199997964 | 79ca7df932df07f87c6a34aed64482313ba386970890f3caa522b90cc28e6d02 | 13dd88207d98b8904ff6abb5452615dad1fb9926 |
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Tue Jan 23 06:00:01 UTC 2018](https://transfer.sh/vPhfj/dashninja-dbdump-20180123070001.tar.bz2) | 197599970 | d4607845ec99f28d81920ea44e5ead7ca2caa7ab6ee07f70bc5cb76d9e415083 | 74a004686509cd8877697d0340f6581861ab9ac8 |
 | [Mon Jan 22 17:30:21 UTC 2018](https://transfer.sh/G88lT/dashninja-dbdump-20180122183021.tar.bz2) | 197483219 | c64c377207f941660e6d4f2fa38c3a3c8c1b616d88e850e5ff9497ab89cebbe7 | 3ab2c3a52da7709e3f07dac442490d52891d0eb8 |
 | [Mon Jan 22 17:26:15 UTC 2018](https://transfer.sh/I6x3w/dashninja-dbdump-20180122182615.tar.bz2) | 197481563 | 8f7eac70bfed33f03f5e6155bcb66e50b81843f2e903b743ec346ffe423fad27 | ad09ba1b870201529eedd2a07a4fdf2ddd7666b3 |
-| [Mon Jan 22 17:22:46 UTC 2018](https://transfer.sh/be0aL/dashninja-dbdump-20180122182246.tar.bz2) | 197485357 | a3f08818b108839a765f49f98495afadac8b7ca40073b23107a6f36f4b4ada55 | 7f2bfa1c3c000868a0c41ddd4b06857eba732477 |

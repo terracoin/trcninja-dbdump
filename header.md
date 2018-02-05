@@ -10,5 +10,5 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 
 
 ## Automatic Dump Files
-| Date | Size | SHA256 | SHA1 |
-|--|--|--|--|
+| Date | Size | SHA256 |
+|--|--|--|

@@ -37,7 +37,7 @@ cd ..
 echo "Calculating checksum of $DIRFIN/$DUMPNAM"
 
 SIZE=$(stat -c%s $FULLDUMPNAM)
-SHA1=$(sha1sum $FULLDUMPNAM | cut -f1 -d' ')
+#SHA1=$(sha1sum $FULLDUMPNAM | cut -f1 -d' ')
 SHA256=$(sha256sum $FULLDUMPNAM | cut -f1 -d' ')
 
 echo "Sending $DIRFIN/$DUMPNAM to transfer.sh"
@@ -51,7 +51,7 @@ rm -rf $DIR
 cd ..
 
 echo "Generating new links.md file and README.md"
-echo -e "$LINKSFILE\n| [$DATE]($URL) | $SIZE | $SHA256 | $SHA1 |" > links.md
+echo -e "| [$DATE]($URL) | $SIZE | $SHA256 | \n$LINKSFILE" > links.md
 cat header.md links.md > README.md
 
 echo "Auto commit and push"

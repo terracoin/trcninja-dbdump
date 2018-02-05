@@ -12,6 +12,7 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 ## Automatic Dump Files
 | Date | Size | SHA256 | SHA1 |
 |--|--|--|--|
+| [Mon Feb  5 06:00:01 UTC 2018](https://transfer.sh/10YWU/dashninja-dbdump-20180205070001.tar.bz2) | 200601928 | dc2ca5e56d13c95a84e703439fd939a5e157670f5df108ca81c53829a7685e30 | 23f96b78def359aa098dc66091f3e68df8363944 |
 | [Sun Feb  4 06:00:01 UTC 2018](https://transfer.sh/BIAh1/dashninja-dbdump-20180204070001.tar.bz2) | 200487346 | b484253c30885d7bf87d2e301bd2a448916da5ce4f079836084ae898acba173d | 8d8c214bb689ee9de1c312e02647f3a4cb0ba1bf |
 | [Sat Feb  3 06:00:01 UTC 2018](https://transfer.sh/ciNHF/dashninja-dbdump-20180203070001.tar.bz2) | 200424246 | 0089e4561af4a0fa43d5f2f9cd3ae64cb6f9d838051a1a16d84d82eccf356392 | 4285f86007f88954d33595fa345f9fa5c3ad0ec1 |
 | [Fri Feb  2 06:00:01 UTC 2018](https://transfer.sh/5P6aq/dashninja-dbdump-20180202070001.tar.bz2) | 200284567 | b8888de4424868a9261682b3bd50a6eb40ca38abffebf917c9338dd7b928de64 | 2b0d78fb8ee7db27082c8a9489a738981d764a93 |
@@ -25,4 +26,3 @@ You can use this for DASH crypto-currency analysis or to kick-start a Dash Ninja
 | [Thu Jan 25 06:00:01 UTC 2018](https://transfer.sh/rmZgA/dashninja-dbdump-20180125070001.tar.bz2) | 198067389 | 6156d0bfbc1ebfdc8bfa468308474c95324f780eb5504859d1146309595d0c92 | 821a707cd60bddd7025e0c0bae8f7fbafe3cb859 |
 | [Wed Jan 24 06:00:01 UTC 2018](https://transfer.sh/Eq0tg/dashninja-dbdump-20180124070001.tar.bz2) | 197930744 | a42bc2e93019e57edb23ffce7b1c188471aa794924153ee0f6b7922c8e39afa5 | 523e0bdf687c6074b3912211bf76e320f08c36a5 |
 | [Tue Jan 23 06:00:01 UTC 2018](https://transfer.sh/vPhfj/dashninja-dbdump-20180123070001.tar.bz2) | 197599970 | d4607845ec99f28d81920ea44e5ead7ca2caa7ab6ee07f70bc5cb76d9e415083 | 74a004686509cd8877697d0340f6581861ab9ac8 |
-| [Mon Jan 22 17:30:21 UTC 2018](https://transfer.sh/G88lT/dashninja-dbdump-20180122183021.tar.bz2) | 197483219 | c64c377207f941660e6d4f2fa38c3a3c8c1b616d88e850e5ff9497ab89cebbe7 | 3ab2c3a52da7709e3f07dac442490d52891d0eb8 |

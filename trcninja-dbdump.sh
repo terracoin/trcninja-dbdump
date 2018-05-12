@@ -1,7 +1,7 @@
 #!/bin/bash
 
-DB_user=dmndbdump
-DB=trc_mnninja
+DB_user=tmndbdump
+DB=trcninja
 MAINDIR=./dump
 DIR=trcninja-dbdump-$(date +%Y%m%d%H%M%S)
 DUMPDIR=$MAINDIR/$DIR

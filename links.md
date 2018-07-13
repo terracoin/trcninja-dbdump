@@ -1,3 +1,4 @@
+| [Fri Jul 13 01:00:01 UTC 2018](https://transfer.sh/x2YEW/trcninja-dbdump-20180713010001.tar.bz2) | 8854021 | 58efb86497d35df8e1fe823a6cb78af9cfcf6a9f4275fdc9057aa39973a07a82 | 
 | [Thu Jul 12 01:00:01 UTC 2018](https://transfer.sh/EVsfR/trcninja-dbdump-20180712010001.tar.bz2) | 8791272 | f435b6c007a23e4dbf0285243760e9b56a6fe0e16cba64e622fd4ac9f0fc5540 | 
 | [Wed Jul 11 01:00:03 UTC 2018](https://transfer.sh/Hk4T2/trcninja-dbdump-20180711010002.tar.bz2) | 8743566 | 627da166ee050bbf673f29a6f5437606cd701f5a232e8b3ce4dc79eb38899737 | 
 | [Tue Jul 10 01:00:04 UTC 2018](https://transfer.sh/wm7Bw/trcninja-dbdump-20180710010003.tar.bz2) | 8591702 | c2c8136a9d42bdfc1aecb346a66eb2a4c84545dffcb7112227329ffb3edddf6a | 
@@ -11,4 +12,3 @@
 | [Mon Jul  2 01:00:02 UTC 2018](https://transfer.sh/13U17L/trcninja-dbdump-20180702010002.tar.bz2) | 8007687 | 1cf7d79beb1a9739e00090d85f4e7e73363cc4f5bf6fb40d98e74876a5eb5125 | 
 | [Sun Jul  1 01:00:01 UTC 2018](https://transfer.sh/gABrI/trcninja-dbdump-20180701010001.tar.bz2) | 7850673 | 6fbbf9d178b3b86478e510e0c23e8f3a9b212c4546b5a66b21bf3a75e7e1aa27 | 
 | [Sat Jun 30 01:00:01 UTC 2018](https://transfer.sh/hYxYk/trcninja-dbdump-20180630010001.tar.bz2) | 7722696 | a9891042075c460d4038b6b549415753cce861e79cd39ffe6fda3d2a68991c64 | 
-| [Fri Jun 29 01:00:01 UTC 2018](https://transfer.sh/dWsHW/trcninja-dbdump-20180629010001.tar.bz2) | 7624542 | 1569ab4094a73d70f9e8fbf22c423d513045ae28667ea88c672068dc4b12cd59 | 

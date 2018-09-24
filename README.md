@@ -10,6 +10,7 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Mon Sep 24 01:00:02 UTC 2018](https://transfer.sh/ovQCk/trcninja-dbdump-20180924010001.tar.bz2) | 75254639 | 20510f81c89b2f6f4b6db0506de1efebbf95f58d87c87c3a45196a144c008515 | 
 | [Sun Sep 23 01:00:01 UTC 2018](https://transfer.sh/tZVH9/trcninja-dbdump-20180923010001.tar.bz2) | 75154988 | 071627b35f0a0bd6596599b1ea13c1189d3239bf1ed3b56a87a1bb177afb7587 | 
 | [Sat Sep 22 01:00:01 UTC 2018](https://transfer.sh/uxAFd/trcninja-dbdump-20180922010001.tar.bz2) | 75055440 | 412cd83b987a5b504fdf3e96548283de1be4a1bd64a416dfc73352b4063879d5 | 
 | [Fri Sep 21 01:00:01 UTC 2018](Could not save file) | 74961841 | c7f35c6e8c0e701a4cfddfd00c3d96df3e6e4378cf9cfa5e3e142f34fe56e518 | 
@@ -23,4 +24,3 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 | [Thu Sep 13 01:00:01 UTC 2018](https://transfer.sh/118xLG/trcninja-dbdump-20180913010001.tar.bz2) | 74185361 | c492720b4ed9f57e894fca50730a026f4574b3995a3f69808de689dc41ed674b | 
 | [Wed Sep 12 01:00:01 UTC 2018](https://transfer.sh/NFH4V/trcninja-dbdump-20180912010001.tar.bz2) | 74084276 | bb88dca3ceeca15e70acb7723a55b318a684e891b6a0ac6a1b96f75b1a31f10f | 
 | [Tue Sep 11 01:00:01 UTC 2018](https://transfer.sh/NsugB/trcninja-dbdump-20180911010001.tar.bz2) | 73957867 | 426e471b631f08175da9743d42ebe70f5c50fd30c8ad166706eb7feb458e2c77 | 
-| [Mon Sep 10 01:00:02 UTC 2018](https://transfer.sh/ypQ6D/trcninja-dbdump-20180910010002.tar.bz2) | 73684570 | 7720c7ce7f2d864f23dca2f75ddcc9b1ed3c4cf81e23db580668e81d8ddc4f20 | 

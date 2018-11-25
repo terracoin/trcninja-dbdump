@@ -1,3 +1,4 @@
+| [Sun Nov 25 01:00:01 UTC 2018](https://transfer.sh/g3EuU/trcninja-dbdump-20181125010001.tar.bz2) | 81566502 | b45cc4045921bc1489c7a69086e8ab65eee8d17cb3c81d3124562d818baf3a86 | 
 | [Sat Nov 24 01:00:01 UTC 2018](https://transfer.sh/HV23k/trcninja-dbdump-20181124010001.tar.bz2) | 81479410 | fbda48aecd0d2cb5a2e2c9864e8697c45adebb2c5349e29d7cbefcfad2a51a0e | 
 | [Fri Nov 23 01:00:01 UTC 2018](https://transfer.sh/zrzQ2/trcninja-dbdump-20181123010001.tar.bz2) | 81355074 | bd61405b87c338b55ffc1d36fe18ab59bf1cc3c7a6afaf9d87c8fdff33490467 | 
 | [Thu Nov 22 01:00:02 UTC 2018](https://transfer.sh/21Ww9/trcninja-dbdump-20181122010002.tar.bz2) | 81287013 | 5d10a6d9a12ef7582b4cf602cc9b8c8bcb3d03831e335e63b63d999a15799285 | 
@@ -11,4 +12,3 @@
 | [Wed Nov 14 01:00:01 UTC 2018](https://transfer.sh/rhTVo/trcninja-dbdump-20181114010001.tar.bz2) | 80481848 | ec91496814da33b70af57c8c27e2b4b98495e15cae3453102debd856937aa84a | 
 | [Tue Nov 13 01:00:01 UTC 2018](https://transfer.sh/BBgnn/trcninja-dbdump-20181113010001.tar.bz2) | 80377321 | 4ac2fdbfd605c60d48e14acfe0ed9eee3dfa678a1d96cdf9a52decfd70e212e7 | 
 | [Mon Nov 12 01:00:01 UTC 2018](https://transfer.sh/UuWfJ/trcninja-dbdump-20181112010001.tar.bz2) | 80307499 | e4e7e158bd32640c8ba59e8765615c54233da6d65c0b9263848e4386e4cb67d8 | 
-| [Sun Nov 11 01:00:01 UTC 2018](https://transfer.sh/139Zhq/trcninja-dbdump-20181111010001.tar.bz2) | 80191051 | de70c50f6212a29559602ce5845c13e3820496027ffe0f8e42faf6adfe7b8bf0 | 

@@ -1,3 +1,4 @@
+| [Fri Aug 16 01:00:02 UTC 2019]() | 107145605 | 5c438e86a301a76baf6e9f911615c5fd70fa5abd7946452e439e9226f22d1976 | 
 | [Thu Aug 15 01:00:01 UTC 2019]() | 106980977 | 9441c232e1db5fcd5c138b60d8fee6da8b913b58fb15bdc2b7688f55284872ce | 
 | [Wed Aug 14 01:00:01 UTC 2019]() | 106902193 | 6ad5156239dccabdbe1fc5a5fa3bb863bccb8ebc58c2fc6040f481c97980898a | 
 | [Tue Aug 13 01:00:01 UTC 2019](https://transfer.sh/nfDuc/trcninja-dbdump-20190813010001.tar.bz2) | 106808136 | 0a9e7462d11f5fb208b7ab959c13308ce51f49068d89b8cbaead81b53cc094fc | 
@@ -11,4 +12,3 @@
 | [Mon Aug  5 01:00:01 UTC 2019](https://transfer.sh/PY8nw/trcninja-dbdump-20190805010001.tar.bz2) | 106000236 | 5a4f2116a723eb691aad3c37b7ec8f160951723cb1867eab6948ba4bd8a035e3 | 
 | [Sun Aug  4 01:00:01 UTC 2019]() | 105901689 | 0eed9d8e248bc3fff199f04bcdb502c663e5a3a52b7dfc0db997454ff1e74887 | 
 | [Sat Aug  3 01:00:01 UTC 2019](https://transfer.sh/O88La/trcninja-dbdump-20190803010001.tar.bz2) | 105789294 | 267712a3fe5a7683546868e6e401c655c1bb7b6dc2a85f79601ea40467e311f7 | 
-| [Fri Aug  2 01:00:01 UTC 2019](https://transfer.sh/kcn65/trcninja-dbdump-20190802010001.tar.bz2) | 105681386 | 5ec392b280089b9c4824a032fc657e4abbe78e6c191e89cd45c3a7dd52fe8e9a | 

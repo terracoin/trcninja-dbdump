@@ -10,6 +10,7 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Wed 23 Oct 2019 01:00:01 AM UTC]() | 114150445 | f1ab95220da2232bfe7a2097f11a1a581a757aa533749f9a0651e89a3f4a7727 | 
 | [Tue 22 Oct 2019 01:00:01 AM UTC]() | 114032937 | 938b88d1883ed6a9049bc517ce395188dcb321e3b3aadaec3afe2f78695bb1fb | 
 | [Mon 21 Oct 2019 01:00:02 AM UTC](Could not save file) | 113968223 | 80f837a063143d18b4d9400cfaee5f97b5922162065251fe5fe12d379c6ae6af | 
 | [Sun 20 Oct 2019 01:00:01 AM UTC]() | 113871571 | c5a2193ce1114aaf6ed0f509a572a2db186c22c4f1541ef6d4b664836627b2f0 | 
@@ -23,4 +24,3 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 | [Sat 12 Oct 2019 01:00:01 AM UTC](Could not save file) | 113001308 | f01fc6cde6579c95dff1714f207c575fabce3a8372aafe6eca4049f6e36f2a83 | 
 | [Fri 11 Oct 2019 01:00:02 AM UTC]() | 112889635 | 6ee003421c728f33940230c6e16b9c40612c390f0982ea9fd85f4e456780b7fb | 
 | [Thu 10 Oct 2019 01:00:01 AM UTC]() | 112782636 | e0bf4b813c1b281c98631728e38043ae72278cedd9085ac9568f5e266f9cc6af | 
-| [Wed 09 Oct 2019 01:00:01 AM UTC]() | 112675392 | c92d2195679defc57ee02083d48aba7b7027fc2c0b67ab114988eb14f1220b20 | 

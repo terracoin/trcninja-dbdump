@@ -1,3 +1,4 @@
+| [Tue 26 Nov 2019 01:00:02 AM UTC](https://transfer.sh/M5thB/trcninja-dbdump-20191126010002.tar.bz2) | 117592150 | be7883980d2105cecd79dfe122d38fefe1a595180529b59a6cb5e6e85eebbb60 | 
 | [Mon 25 Nov 2019 01:00:01 AM UTC](https://transfer.sh/Pd0sS/trcninja-dbdump-20191125010001.tar.bz2) | 117465563 | 106d8a32e013ac2e2718608e547d19e9c133c0a38741f21e08fd2ce0f72aa953 | 
 | [Sun 24 Nov 2019 01:00:01 AM UTC](https://transfer.sh/DJboJ/trcninja-dbdump-20191124010001.tar.bz2) | 117357226 | b613b5151e81fb620882da24e513797231ab69ee7ffc84746a95cdd7a344d603 | 
 | [Sat 23 Nov 2019 01:00:01 AM UTC](https://transfer.sh/fVusW/trcninja-dbdump-20191123010001.tar.bz2) | 117271625 | 4558b7e840d286b900a9a95d88382bcf1e2e8c6eba46fe030ec80d8197f664b1 | 
@@ -11,4 +12,3 @@
 | [Fri 15 Nov 2019 01:00:01 AM UTC](Could not save file) | 116454642 | 611883a9cc66cb8d74de91ba973d0aaf9a789c0cb2fb66eb011bb13077dc31ce | 
 | [Thu 14 Nov 2019 01:00:01 AM UTC](Could not save file) | 116331048 | 9f6365e9542028eaeaf1ccaced2aa5f83995dc9fae032036f598263bbb9d7958 | 
 | [Wed 13 Nov 2019 01:00:01 AM UTC]() | 116243201 | c9ff32e80470d14982abfa76ccfca4824e7c1ee941762050b5d46fa693629a88 | 
-| [Tue 12 Nov 2019 01:00:01 AM UTC](https://transfer.sh/vndUd/trcninja-dbdump-20191112010001.tar.bz2) | 116112135 | 23dddfbd767208534bd1a0b75265f633a80543e904a1ba778f105d23679f1321 | 

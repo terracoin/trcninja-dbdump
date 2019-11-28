@@ -10,6 +10,7 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Thu 28 Nov 2019 01:00:01 AM UTC](Could not save metadata) | 117811048 | 5dedb39aed762236b24a0d2682c5c0813db80dc8a7f5355e8418d145b3a98cb4 | 
 | [Wed 27 Nov 2019 01:00:01 AM UTC]() | 117688205 | 8750fb49e36ddd2a214fba35caf35cbd9c011120bd927681845e1dbe6eb59eda | 
 | [Tue 26 Nov 2019 01:00:02 AM UTC](https://transfer.sh/M5thB/trcninja-dbdump-20191126010002.tar.bz2) | 117592150 | be7883980d2105cecd79dfe122d38fefe1a595180529b59a6cb5e6e85eebbb60 | 
 | [Mon 25 Nov 2019 01:00:01 AM UTC](https://transfer.sh/Pd0sS/trcninja-dbdump-20191125010001.tar.bz2) | 117465563 | 106d8a32e013ac2e2718608e547d19e9c133c0a38741f21e08fd2ce0f72aa953 | 
@@ -23,4 +24,3 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 | [Sun 17 Nov 2019 01:00:01 AM UTC]() | 116651594 | 353d9e988c878ec3e964106cb3f4a93165725533679794d0aa5020e983b86d8f | 
 | [Sat 16 Nov 2019 01:00:01 AM UTC](https://transfer.sh/SEE1A/trcninja-dbdump-20191116010001.tar.bz2) | 116536673 | 9189823537e2f1f1184a3c4b94f4cfdffd95593d967c3695e129152e4bcf97bd | 
 | [Fri 15 Nov 2019 01:00:01 AM UTC](Could not save file) | 116454642 | 611883a9cc66cb8d74de91ba973d0aaf9a789c0cb2fb66eb011bb13077dc31ce | 
-| [Thu 14 Nov 2019 01:00:01 AM UTC](Could not save file) | 116331048 | 9f6365e9542028eaeaf1ccaced2aa5f83995dc9fae032036f598263bbb9d7958 | 

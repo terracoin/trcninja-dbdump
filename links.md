@@ -1,3 +1,4 @@
+| [Wed 04 Dec 2019 01:00:01 AM UTC](https://transfer.sh/m1pQz/trcninja-dbdump-20191204010001.tar.bz2) | 118399508 | 630b9b2aed994544df0946385a84db141687a1b9c7ef062050de8b31c16057a1 | 
 | [Tue 03 Dec 2019 01:00:01 AM UTC]() | 118247145 | 0f3bd58d34f81a237e4554bba0279578584cd590026acf9c3f2778d828b80df2 | 
 | [Mon 02 Dec 2019 01:00:01 AM UTC](https://transfer.sh/lCfLy/trcninja-dbdump-20191202010001.tar.bz2) | 118140225 | 0c39a73bd52047970d70521175dc06bb608a30238af1bd155448d566ccdba7ff | 
 | [Sun 01 Dec 2019 01:00:01 AM UTC](https://transfer.sh/KSAPx/trcninja-dbdump-20191201010001.tar.bz2) | 118077782 | dde98e46de9d95a9d06560dfaf571fd430fb2fe59865709742c0ede2bec22100 | 
@@ -11,4 +12,3 @@
 | [Sat 23 Nov 2019 01:00:01 AM UTC](https://transfer.sh/fVusW/trcninja-dbdump-20191123010001.tar.bz2) | 117271625 | 4558b7e840d286b900a9a95d88382bcf1e2e8c6eba46fe030ec80d8197f664b1 | 
 | [Fri 22 Nov 2019 01:00:01 AM UTC](Could not save metadata) | 117213130 | ff5327fb0dcfb64593ff72cb46a03b71b679032fecc68f446b36eae765caadcc | 
 | [Thu 21 Nov 2019 01:00:01 AM UTC](Could not save metadata) | 117096244 | 38cb09bd8eb8f84b68311def0adaca4771ff6a2cbcf518149aea452d18c7bf2e | 
-| [Wed 20 Nov 2019 01:00:01 AM UTC](https://transfer.sh/WKjFj/trcninja-dbdump-20191120010001.tar.bz2) | 116984502 | 9640613cce0b7a0f38bf2d1a9252d2e3bb791ec786eb8090c4518152a5cbb6ce | 

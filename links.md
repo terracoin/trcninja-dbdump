@@ -1,3 +1,4 @@
+| [Sun 02 Feb 2020 01:00:01 AM UTC](https://transfer.sh/j0BKn/trcninja-dbdump-20200202010001.tar.bz2) | 124298789 | db10342c8d6834bc70c6f403e03ac5c1fb38c205a1ff388730cfb29030112966 | 
 | [Sat 01 Feb 2020 01:00:01 AM UTC](Could not save metadata) | 124207281 | 8d901a9f6b8da966dc045837525b7a0c88cc2b4e6c15c8325d96816afe135ae9 | 
 | [Fri 31 Jan 2020 01:00:01 AM UTC](Could not save metadata) | 124078979 | a76857b93f456834bce0d6d8c00110cb530cca18efafbc6cf000f0956a0f7810 | 
 | [Thu 30 Jan 2020 01:00:01 AM UTC]() | 123996679 | e11d80672c55db26dcb6cc60853e8336d3c16d3b8edc0a118be7d566a74aa177 | 
@@ -11,4 +12,3 @@
 | [Wed 22 Jan 2020 01:00:01 AM UTC](https://transfer.sh/14QHcs/trcninja-dbdump-20200122010001.tar.bz2) | 123278877 | 712507c9a3965c993e7887d39126796ea85ffd60926c9059336ef34cb1f23971 | 
 | [Tue 21 Jan 2020 01:00:01 AM UTC](Could not save metadata) | 123196924 | a271af04e8826da7ba49fd56a9f5b4b6f0273b6e99b31832ac9b6b6e9175753e | 
 | [Mon 20 Jan 2020 01:00:01 AM UTC](Could not save metadata) | 123096587 | 2aaa2f1ea8aeee9c409f53e85d6a03e2204c82aba21279fb7d2a14171d0619fe | 
-| [Sun 19 Jan 2020 01:00:02 AM UTC](Could not save file) | 122871361 | a926061ce07c8a5e307c320ea349bc6b1124636f688e9cf4be1ab38500f98157 | 

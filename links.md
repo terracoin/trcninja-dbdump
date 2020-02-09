@@ -1,3 +1,4 @@
+| [Sun 09 Feb 2020 01:00:01 AM UTC](Could not save file) | 124970496 | f4a08038862f1f4f95ae0ec233c32d711fc9a3f3a3eaf0755792cd365b628d36 | 
 | [Sat 08 Feb 2020 01:00:01 AM UTC]() | 124843692 | 8fd00c591addaf7ce9808fa8894a5722315ab99063c8f6e53571053dcbfbcf50 | 
 | [Fri 07 Feb 2020 01:00:02 AM UTC](Could not save file) | 124747339 | 5f6ff28b4f153e6616b64a2d0a119aabad5545e63646b8f70caf7558724ef7ff | 
 | [Thu 06 Feb 2020 01:00:01 AM UTC](https://transfer.sh/dESKH/trcninja-dbdump-20200206010001.tar.bz2) | 124655781 | b6a4aaec5fc7182227dca496877ea00dacb22f3bb179ca75e53221d7a7732e05 | 
@@ -11,4 +12,3 @@
 | [Wed 29 Jan 2020 01:00:01 AM UTC](Could not save file) | 123956968 | 30c18d865f8b66f5a0c09ca714537f433a1b07f098a13f511bd6922e8189924a | 
 | [Tue 28 Jan 2020 01:00:01 AM UTC](Could not save metadata) | 123828589 | 0455396d5f77ed1dea5a02648236f8aaf960fc2b81107aa345c494c97854bd5f | 
 | [Mon 27 Jan 2020 01:00:01 AM UTC]() | 123719808 | 23f737395085e5946a971d7e70039ec111d2d5ee7b353dc5b42362ef0e1e5403 | 
-| [Sun 26 Jan 2020 01:00:01 AM UTC](https://transfer.sh/VGXSK/trcninja-dbdump-20200126010001.tar.bz2) | 123624623 | f7f02071ccd294ffa97be4ad4fce9921f91600eb87231b8fc9b55ae2e6c79dba | 

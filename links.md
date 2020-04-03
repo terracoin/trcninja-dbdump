@@ -1,3 +1,4 @@
+| [Fri 03 Apr 2020 01:00:01 AM UTC]() | 130375444 | cfdb136e4aa0fd106d448aefcc7ef792a5efe76cbbbe6a18db61cf6755e91527 | 
 | [Thu 02 Apr 2020 01:00:01 AM UTC](https://transfer.sh/aUoc3/trcninja-dbdump-20200402010001.tar.bz2) | 130285409 | f5e4332da0d0cf2679051e2ab9082ba1c353714571b58b997b4cf441d1306321 | 
 | [Wed 01 Apr 2020 01:00:02 AM UTC]() | 130170211 | 18fece110c84e133fb8c1eda4fa948f078deb3a99f4ddde92a21cda5b1990556 | 
 | [Tue 31 Mar 2020 01:00:01 AM UTC]() | 130063510 | ee8ca9114f1b5836c1181def8c0bcb791e25feeab1bb7ff89a53b934dd22300e | 
@@ -11,4 +12,3 @@
 | [Mon 23 Mar 2020 01:00:01 AM UTC]() | 129212569 | 4a62d851bcccfef5d373ba87176bdd6f5bafcf4054661df66fc0410303da0173 | 
 | [Sun 22 Mar 2020 01:00:01 AM UTC](Could not save metadata) | 129092911 | 9dc791a0652aa3c595d788e25793dacbbc6b83f18bf8678eb94a52403b76f3ae | 
 | [Sat 21 Mar 2020 01:00:02 AM UTC](https://transfer.sh/em5LM/trcninja-dbdump-20200321010002.tar.bz2) | 129061339 | e0b4b79da26203808e89893cb4060d2e374bd93882ff6ca7162cfb02d5e990eb | 
-| [Fri 20 Mar 2020 01:00:01 AM UTC]() | 128955914 | adc56647b737a08e43328e27af1bb4ccc2466d7e6aaced443a775f8acd1e6ecb | 

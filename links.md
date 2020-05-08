@@ -1,3 +1,4 @@
+| [Fri 08 May 2020 01:00:01 AM UTC](https://transfer.sh/RS7jf/trcninja-dbdump-20200508010001.tar.bz2) | 133904316 | e23eb1832bc9a5e735f0cfdfec333f838ce0e07812e2af9be6d602f5b27f8067 | 
 | [Thu 07 May 2020 01:00:02 AM UTC](https://transfer.sh/11oc4w/trcninja-dbdump-20200507010002.tar.bz2) | 133842920 | bf94fd9846fb7fd4c2f4e33cde947b99ed0372d5efd535bcfcdcd174d023675a | 
 | [Wed 06 May 2020 01:00:01 AM UTC](https://transfer.sh/XAXFI/trcninja-dbdump-20200506010001.tar.bz2) | 133706632 | 72fa813d9129a76df0070a4c494d98bb522f850b37b0caa9f864ab91e8677afa | 
 | [Tue 05 May 2020 01:00:01 AM UTC]() | 133591688 | ba91441bc768f6a677905b8970cae8f68b1f8f1297918b4173578b7933c8ad9f | 
@@ -11,4 +12,3 @@
 | [Mon 27 Apr 2020 01:00:01 AM UTC](https://transfer.sh/DZSID/trcninja-dbdump-20200427010001.tar.bz2) | 132804760 | b978f7f9f2d4edbbdd02e51c588150024ee1ab33fcff0fa88b7cd51f41436766 | 
 | [Sun 26 Apr 2020 01:00:01 AM UTC]() | 132648529 | 965d75f529eb9ade29fdd83e4d3a36dfb8a4e3022845ac0e71a270251758becc | 
 | [Sat 25 Apr 2020 01:00:01 AM UTC]() | 132587465 | 64cb8b60720d223168349a4b7d2abd147430141250e447ca561692c16f2d0c13 | 
-| [Fri 24 Apr 2020 01:00:01 AM UTC]() | 132509776 | ce0cee63bb539e5e300bfdeecaebb04171520e7c5bd5b13f4aed8053e678fe66 | 

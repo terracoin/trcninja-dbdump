@@ -1,3 +1,4 @@
+| [Mon 22 Jun 2020 01:00:01 AM UTC](https://transfer.sh/15zXLJ/trcninja-dbdump-20200622010001.tar.bz2) | 138529244 | fe5739ff8ce94f6d0f174f136e0cbd35d05f3b82fc5f795b3636c39cea2e230e | 
 | [Sun 21 Jun 2020 01:00:02 AM UTC](https://transfer.sh/vbuud/trcninja-dbdump-20200621010002.tar.bz2) | 138423039 | ae5aa3098106d69b735bc3735e1972a79bcde57f766d531cfde68506f5549547 | 
 | [Sat 20 Jun 2020 01:00:01 AM UTC]() | 138313562 | da9630cb6c29448b788cc2891d04061ea6442c978ec984c3213bc54250e91f6d | 
 | [Fri 19 Jun 2020 01:00:01 AM UTC](Could not save file) | 138239738 | e0d356e61088757f4eb66ba7939d6bc75c5ebbe1fca2212fbdecf48c8f69f580 | 
@@ -11,4 +12,3 @@
 | [Thu 11 Jun 2020 01:00:01 AM UTC](Could not save file) | 137414206 | ce61c62eb46fe6fb2f2f18e446cd65770392e8a5f0508d29d2a007dce95f0061 | 
 | [Wed 10 Jun 2020 01:00:01 AM UTC]() | 137315749 | 5533639b11045171e5dea1d006747014cf98ba5c9e366ccb6b310a645f6bcecd | 
 | [Tue 09 Jun 2020 01:00:01 AM UTC](https://transfer.sh/ndimb/trcninja-dbdump-20200609010001.tar.bz2) | 137219627 | f3398bb660a61182fecc16bbb0d9271ee29f24575d2d7e9921c1b9c615991c31 | 
-| [Mon 08 Jun 2020 01:00:01 AM UTC](Could not save file) | 137105561 | 505db9cd6a91e578c441cfa065ba46f9341f03f2fbe1fb80c7a6c2f833015f97 | 

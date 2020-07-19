@@ -1,3 +1,4 @@
+| [Sun 19 Jul 2020 01:00:01 AM UTC]() | 141270940 | 445171c3bdf820ce5a9f410474a2185d2cd890e6ea6c7c5cd4e75e99e050ffc5 | 
 | [Sat 18 Jul 2020 01:00:01 AM UTC]() | 141205510 | 0e3793fcbb7fac1408d24ed00a7315cb510a8266d58f31474000390d65e4d86f | 
 | [Fri 17 Jul 2020 01:00:01 AM UTC](https://transfer.sh/12XWQB/trcninja-dbdump-20200717010001.tar.bz2) | 141062613 | df21ce41e49500b18e25440f41900cbc3986df09d018b468e00982b7fcb38010 | 
 | [Thu 16 Jul 2020 01:00:01 AM UTC]() | 141003166 | 4e04094a4b1b916022979239b5bab7e7e4979d3e374610b47fe880de0eee0c91 | 
@@ -11,4 +12,3 @@
 | [Wed 08 Jul 2020 01:00:02 AM UTC](Could not save metadata) | 140194512 | 0ed5b9420ecfb99448dab250ff0f9a63b701d62b1a9d6787fa7c1637de78d7fb | 
 | [Tue 07 Jul 2020 01:00:01 AM UTC](Could not save metadata) | 140099477 | e45a71d513e3e27dae6fad9af7dcffeb9bdd90c33995daaa56650ab8dd17d3a1 | 
 | [Mon 06 Jul 2020 01:00:01 AM UTC](Could not save metadata) | 140005640 | 3262c987374ea32c8d6d1d652e41b2fa58d12a6a77048bec703607d5b509410e | 
-| [Sun 05 Jul 2020 01:00:01 AM UTC](Could not save metadata) | 139897097 | d1ed011cec568c61dc5a96cdf8a9a08b136d1f19bf88df34fb206ba066dff40b | 

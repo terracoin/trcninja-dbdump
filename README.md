@@ -10,6 +10,7 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Mon 28 Dec 2020 01:00:01 AM UTC]() | 157710462 | 3029124584ebf78eb8e917d5a140f2e1c02c005e97d67307a718d206cd2a2066 | 
 | [Sun 27 Dec 2020 01:00:01 AM UTC]() | 157647605 | 151ad2cd165e4dc7612dd982ba8e391b7e7d9b1fdb8ac0a5e32adbe01bf6b440 | 
 | [Sat 26 Dec 2020 01:00:01 AM UTC]() | 157517087 | b5380a27dc5c677086c6fd76b3a55462aa69f4f851e66483f76bf3a90a018ecc | 
 | [Fri 25 Dec 2020 01:00:02 AM UTC]() | 157429404 | 13bb64171a48752da6dff0f3717d4fbb95a21c9c0bd75632915961b9ab2f73f1 | 
@@ -23,4 +24,3 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 | [Thu 17 Dec 2020 01:00:01 AM UTC]() | 156580471 | f3d4cd6a8b6ee46de54e5a62f740d333bcfe2d63fd7319b5efdb38cb7e4eacd2 | 
 | [Wed 16 Dec 2020 01:00:01 AM UTC]() | 156493124 | 56cf1f16bf6913949bd6824e0f44c4bdb770e9fb2996fe4660e46c86d40379be | 
 | [Tue 15 Dec 2020 01:00:01 AM UTC]() | 156389534 | 27cb7905769533e4c1be8c859471214057ca014d9a7f154668c1e59d8929cf8e | 
-| [Mon 14 Dec 2020 01:00:02 AM UTC]() | 156292638 | 240dc847fedd7d18ab9a29cc2f02d543994fe61920391afa3257bb6cce983645 | 

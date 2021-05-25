@@ -10,6 +10,7 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 ## Automatic Dump Files
 | Date | Size | SHA256 |
 |--|--|--|
+| [Tue 25 May 2021 01:00:01 AM UTC](https://transfer.sh/1GVMIoT/trcninja-dbdump-20210525010001.tar.bz2) | 171125069 | b7f8aa53f3deeff4e6e05185d0506c0535f8801c5dd5dc6524d59eb0becb28aa | 
 | [Mon 24 May 2021 01:00:01 AM UTC](https://transfer.sh/1oXwSJs/trcninja-dbdump-20210524010001.tar.bz2) | 170154441 | 72ab8a71f60138d13840c3f10262cf2a64a5086e92d24763f68f5bfc910055a5 | 
 | [Sun 23 May 2021 01:00:01 AM UTC](https://transfer.sh/1oNrXoa/trcninja-dbdump-20210523010001.tar.bz2) | 170156911 | 673ea1bee605cf0d517a3484867a0a0b8a63ccb03ee155ea7b47d00aff883385 | 
 | [Sat 22 May 2021 01:00:01 AM UTC](https://transfer.sh/1oabdHT/trcninja-dbdump-20210522010001.tar.bz2) | 170145501 | 7f44c297cda06f3ac78f4e173b69b06bd134f434cee8b041afa6e85321f0562c | 
@@ -23,4 +24,3 @@ You can use this for Terracoin crypto-currency analysis or to kick-start a TRC N
 | [Fri 14 May 2021 01:00:01 AM UTC](https://transfer.sh/kLtW3/trcninja-dbdump-20210514010001.tar.bz2) | 170076908 | a0c31823fbfe1df84a20a036ac4cc7c4eab5a6320868775a90ae62ba44131d98 | 
 | [Thu 13 May 2021 01:00:01 AM UTC](https://transfer.sh/bYBpT/trcninja-dbdump-20210513010001.tar.bz2) | 170103778 | dbf96714a794acedd4c363bc13b2812c124dc746158c3fd0f965086a863d99d0 | 
 | [Wed 12 May 2021 01:00:01 AM UTC](https://transfer.sh/uAl3p/trcninja-dbdump-20210512010001.tar.bz2) | 170126720 | 8be8918ca80ec0e4531733e1d103353292a9d54f899fa66572330981e584272a | 
-| [Tue 11 May 2021 01:00:01 AM UTC](https://transfer.sh/pLYwo/trcninja-dbdump-20210511010001.tar.bz2) | 170106625 | 1ff55f23fa7aa5e9b2cef560f3fa3d3dc208a48ef1d63894b026fdd96d6aaf10 | 
